@@ -3,6 +3,7 @@ Feature test plugin to test field connections in Beaver Builder Core which adds 
 
 # Please Note
 This plugin is **NOT** compatible yet with Themer as of 1.4.1.2, a later release will add a patch so the two work together.
+
 If you have Themer active please disable it until a Themer compatibilty atch is released.
 
 All support for this feature test plugin is handled here, or on the Slack via myself (Simon), please dont ask for support via the helpdesk.
